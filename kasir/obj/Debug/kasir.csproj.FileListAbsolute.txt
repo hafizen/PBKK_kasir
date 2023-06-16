@@ -1,0 +1,11 @@
+D:\Kuliah\SEM6\PBKK\kasir\kasir\bin\Debug\kasir.exe.config
+D:\Kuliah\SEM6\PBKK\kasir\kasir\bin\Debug\kasir.exe
+D:\Kuliah\SEM6\PBKK\kasir\kasir\bin\Debug\kasir.pdb
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.csproj.AssemblyReference.cache
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.Properties.Resources.resources
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.csproj.GenerateResource.cache
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.exe
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.pdb
+D:\Kuliah\SEM6\PBKK\kasir\kasir\obj\Debug\kasir.FormLogin.resources
